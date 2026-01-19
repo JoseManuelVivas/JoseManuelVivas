@@ -31,4 +31,4 @@
 ---
 
 ### 🤝 Connect with me
-[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-vivas-pozuelo-9074803a6) | [Email](mailto:jmvipoz@gmail.com)
+[LinkedIn](www.linkedin.com/in/jose-manuel-vivas-pozuelo) | [Email](mailto:jmvipoz@gmail.com)
