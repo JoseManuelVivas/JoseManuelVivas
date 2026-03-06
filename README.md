@@ -25,7 +25,7 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChefoXY&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=ccc&hide_border=true" alt="ChefoXY's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChefoXY&show_icons=true&theme=vision-friendly-dark" alt="ChefoXY's GitHub Stats" />
 </p>
 
 ---
