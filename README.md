@@ -13,12 +13,11 @@
 ### 🔍 Technical Profile
 - 🎓 **Computer Engineering student** specialized in **Embedded Systems**.
 - 🐧 **Linux Kernel:** Deep dive into kernel internals, drivers, and system programming.
-- 🏗️ **Infrastructure:** Bridging the gap between hardware and cloud with **K8s** and **IaC (Terraform)**.
 - 🎮 **Fun fact:** I develop video games to explore optimization and engine architecture.
 
 ### 🛠️ Expertise
 - **Low-Level:** Linux Kernel, Device Drivers, C, C++, Assembly (x86/ARM).
-- **Orchestration & Cloud:** Kubernetes, Docker, Terraform.
+- **Orchestration & Cloud:** Kubernetes, Docker.
 - **Game Dev:** Engine architecture and performance optimization.
 
 ---
