@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Assembly-000?style=flat&logo=assemblyscript&logoColor=white" />
 </p>
 
 ---
