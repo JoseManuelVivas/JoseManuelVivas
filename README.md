@@ -1,4 +1,4 @@
-# Hi, I'm ChefoXY | Computer Engineer & Linux Kernel Enthusiast 🐧⚙️
+# Hi, I'm José Manuel | Computer Engineer & Linux Kernel Enthusiast 🐧⚙️
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux_Kernel-000?style=flat&logo=linux&logoColor=white" />
