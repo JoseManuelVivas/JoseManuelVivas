@@ -1,10 +1,10 @@
-# Hi, I'm José Manuel | Computer Engineer & Linux Kernel Enthusiast 🐧⚙️
+# Hi, I'm José Manuel | Computer Engineer & Linux Systems Specialist 🐧⚙️
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux_Kernel-000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-eBPF-000?style=flat&logo=linux&logoColor=5cd1e8" />
   <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Assembly-000?style=flat&logo=assemblyscript&logoColor=white" />
 </p>
@@ -12,14 +12,15 @@
 ---
 
 ### 🔍 Technical Profile
-- 🎓 **Computer Engineering student** specialized in **Embedded Systems**.
-- 🐧 **Linux Kernel:** Deep dive into kernel internals, drivers, and system programming.
-- 🎮 **Fun fact:** I develop video games to explore optimization and engine architecture.
+- 🎓 **Computer Engineering Graduate** specialized in **Embedded Systems** & incoming **IoT Master's Student @ UC3M**.
+- 🐧 **Linux Kernel:** Passionate about kernel internals, device driver development, and custom module programming.
+- ⚡ **High-Performance Networking:** Developing with **eBPF** and **AF_XDP** for ultra-fast packet processing and kernel-space observability.
+- 🌐 **Network Emulation:** Designing virtualized testbeds using **Mininet** and **Docker** to simulate complex network topologies.
 
 ### 🛠️ Expertise
-- **Low-Level:** Linux Kernel, Device Drivers, C, C++, Assembly (x86/ARM).
-- **Orchestration:** Kubernetes, Docker.
-- **Game Dev:** Engine architecture and performance optimization.
+- **Low-Level & Kernel:** Linux Kernel Development, Device Drivers, C, C++, Assembly (x86/ARM), System Programming.
+- **Data Plane & Observability:** eBPF (bpftrace, libbpf), XDP / AF_XDP socket optimization, TC (Traffic Control).
+- **Network Emulation & Virtualization:** Mininet, Docker containers, Virtual Bridges, Linux Network Namespaces.
 
 ---
 
