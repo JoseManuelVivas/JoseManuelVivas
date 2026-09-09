@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseManuelVivas&show_icons=true&theme=vision-friendly-dark" alt="JoseManuelVivas's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JoseManuelVivas&theme=tokyonight&hide_border=true" alt="JoseManuelVivas's GitHub Stats" />
 </p>
 
 ---
