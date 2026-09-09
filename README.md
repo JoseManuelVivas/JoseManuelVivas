@@ -1,25 +1,26 @@
-# Hi, I'm José Manuel | Computer Engineer & Linux Systems Specialist 🐧⚙️
+# Hi, I'm José Manuel | Systems & IoT Engineer 🐧⚙️📡
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux_Kernel-000?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-eBPF-000?style=flat&logo=linux&logoColor=5cd1e8" />
   <img src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IoT%20Protocols-000?style=flat&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### 🔍 Technical Profile
-- 🎓 **Computer Engineering Graduate** specialized in **Embedded Systems** & incoming **IoT Master's Student @ UC3M**.
-- 🐧 **Linux Kernel:** Passionate about kernel internals, device driver development, and custom module programming.
-- ⚡ **High-Performance Networking:** Developing with **eBPF** and **AF_XDP** for ultra-fast packet processing and kernel-space observability.
-- 🌐 **Network Emulation:** Designing virtualized testbeds using **Mininet** and **Docker** to simulate complex network topologies.
+- 🎓 **M.Sc. Student in Internet of Things (IoT) @ UC3M** | Computer Engineering Graduate from UNIZAR.
+- 🐧 **Linux Kernel & Embedded Systems:** Specializing in kernel internals, device driver development, and hardware-software integration at the lowest levels.
+- ⚡ **High-Performance Data Plane:** Engineering with **eBPF** and **AF_XDP** for high-throughput packet processing, edge filtering, and kernel observability.
+- 📡 **Connected Architectures:** Designing secure, resource-constrained network topologies and testing them through **Mininet**, **Docker**, and hardware emulation.
 
 ### 🛠️ Expertise
-- **Low-Level & Kernel:** Linux Kernel Development, Device Drivers, C, C++, Assembly (x86/ARM), System Programming.
-- **Data Plane & Observability:** eBPF (bpftrace, libbpf), XDP / AF_XDP socket optimization, TC (Traffic Control).
-- **Network Emulation & Virtualization:** Mininet, Docker containers, Virtual Bridges, Linux Network Namespaces.
+- **Low-Level & Embedded:** Linux Kernel Internals, Device Drivers, C, C++, ARM/x86, RTOS, Memory Management.
+- **Edge & IoT Networking:** eBPF (libbpf, bpftrace), AF_XDP, TC (Traffic Control), MQTT, CoAP, SDN, Network Namespaces.
+- **Virtualization & Testbeds:** Mininet, Docker containers, Linux Virtual Bridges, Hardware-in-the-Loop Emulation.
 
 ---
 
